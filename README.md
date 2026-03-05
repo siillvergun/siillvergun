@@ -1,6 +1,6 @@
 <div align="center">
-
-# Hi there, I'm Oh kuneun 👋
+  <img src="https://github.com/siillvergun/siillvergun/blob/main/Group%2011%20(1).png"/>
+  
 
 **Backend Developer in the Making**
 
