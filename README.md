@@ -13,6 +13,7 @@
 ### Tech Stack
 
 <p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 </p>
@@ -27,5 +28,6 @@
   width="500"
   height="300"
 />
+</a>
 
 </div>
