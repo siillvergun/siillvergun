@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/siillvergun/siillvergun/blob/main/Group%2013.png"/>
+  <img src="https://github.com/siillvergun/siillvergun/blob/main/BannerImage.png"/>
 
 &nbsp;
 
@@ -30,5 +30,4 @@
   height="300"
 />
 </a>
-
 </div>
