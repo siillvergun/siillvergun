@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/siillvergun/siillvergun/blob/main/Group%2011%20(1).png"/>
-  
+  <img src="https://github.com/siillvergun/siillvergun/blob/main/Group%2013.png"/>
+
+&nbsp;
 
 **Backend Developer in the Making**
 
